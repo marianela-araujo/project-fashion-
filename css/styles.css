@@ -79,5 +79,5 @@ footer {
 main > .title,            /*main>* (el asterisco remplaza las clases */
 main > .image {
   grid-column: 1/-1;
-  
+
 }
